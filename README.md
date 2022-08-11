@@ -1,7 +1,7 @@
 
 
 # Frontend deployed at the GitHub Page: [Сlient side](https://aboriskaa.github.io/jito_dev_jun_task_client/)
-# Frontend deployed at the Hiroku.
+# Backend deployed at the Heroku.
 
 
 # Front-End Developer test task
