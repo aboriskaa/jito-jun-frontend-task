@@ -1,6 +1,8 @@
 
 
-# Frontend deployed on GitHub Page:  [http://localhost:3002](https://aboriskaa.github.io/jito_dev_jun_task_client/)
+# Frontend deployed at the GitHub Page:  
+[Сlient side](https://aboriskaa.github.io/jito_dev_jun_task_client/)
+# Frontend deployed at the Hiroku.
 
 
 # Front-End Developer test task
